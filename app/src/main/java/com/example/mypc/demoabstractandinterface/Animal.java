@@ -17,6 +17,7 @@ public abstract class Animal {
     {
         return Name + " Suond " + Suond;
     }
+
     protected String MakeSuond(String overLoad){
         return Name + "Suond"+Suond +" "+overLoad;
     }
